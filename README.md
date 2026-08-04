@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- 1c-k. Badges Row 1: Badges & Buttons -->
+  <!-- Badges Row -->
   <p align="center">
     <a href="https://github.com/SyedAbubakarSiddique">
       <img src="https://img.shields.io/badge/Degree-BCA_Computer_Applications-7E22CE?style=for-the-badge&logo=academicons&logoColor=white" />
@@ -21,7 +21,7 @@
     <a href="mailto:abubakarsiddiq990084@gmail.com">
       <img src="https://img.shields.io/badge/Email-abubakarsiddiq990084%40gmail.com-D946EF?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/SyedAbubakarSiddique">
+    <a href="https://www.linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
@@ -211,88 +211,25 @@ Current Status:
 
 ---
 
-## 🏆 Recognitions & Achievements
+## 🏆 Authentic Recognitions & Certificates
 
 <div align="center">
 
-| Recognition | Issuing Organization | Details / Focus Area |
+| Recognition / Certificate | Issuing Organization | Details & Achievements |
 | :--- | :--- | :--- |
-| 🥇 **II PUC Academic Excellence (93%)** | Al-Ameen Pre-University College | Secured 93% Distinction & Top-Rank Recognition |
-| 🎖️ **Microsoft Excel Associate Certification** | Microsoft | Professional Data Analysis & Spreadsheet Engineering |
-| 🚢 **Indian Navy THINQ 2025** | Indian Navy | National Level General Knowledge & Technical Quiz |
-| 🏆 **MAHE BLRU Inter School Quiz 3.0** | Manipal Academy of Higher Education | Top Rank Winner in General Knowledge & Critical Thinking |
+| 🥇 **II PUC Academic Excellence (93%)** | Al-Ameen Pre-University College | Awarded Distinction & Top Rank for Outstanding Performance in Commerce Board Exam |
+| 🚢 **Indian Navy THINQ 2025** | Indian Navy | National Level General Knowledge, Critical Thinking & Technical Competition Certificate |
+| 🏆 **MAHE BLRU Inter School Quiz 3.0** | Manipal Academy of Higher Education | Top Rank Award for Exceptional Performance in Technical & General Knowledge Quiz |
 | ✍️ **Literary Presentation Award** | Academic Literary Forum | Distinction in Technical & Literary Content Presentation |
 
 </div>
 
 ---
 
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Excel_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Computer_Science-FF9900?style=for-the-badge&logo=nptel&logoColor=white" />
-</p>
-
----
-
-## 🧩 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="45%" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=SyedAbubakarSiddique&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="94%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" width="95%" />
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbubakarSiddique&theme=react&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
