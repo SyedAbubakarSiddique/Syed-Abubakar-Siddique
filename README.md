@@ -234,6 +234,14 @@ Current Status:
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SyedAbubakarSiddique/Syed-Abubakar-Siddique/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
