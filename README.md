@@ -261,20 +261,13 @@ Current Status:
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" width="100%" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="45%" />
 
-<br/>
+  <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAbubakarSiddique&theme=tokyonight&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=E2E8F0" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=SyedAbubakarSiddique&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="94%" />
 
 </div>
 
@@ -283,7 +276,7 @@ Current Status:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=flat&margin-w=15&row=1" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" width="95%" />
 </div>
 
 ---
@@ -291,7 +284,7 @@ Current Status:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbubakarSiddique&theme=react&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbubakarSiddique&theme=react&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
@@ -299,7 +292,7 @@ Current Status:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SyedAbubakarSiddique/SyedAbubakarSiddique/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
