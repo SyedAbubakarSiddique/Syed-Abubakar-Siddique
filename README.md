@@ -255,21 +255,43 @@ Current Status:
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Public_Repos-Auto-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/github/stars/SyedAbubakarSiddique?style=for-the-badge&logo=github&logoColor=white&color=7E22CE" />
-    <img src="https://img.shields.io/github/followers/SyedAbubakarSiddique?style=for-the-badge&logo=github&logoColor=white&color=6B21A8" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SyedAbubakarSiddique&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-  <!-- Guaranteed 100% Uptime Activity Graph -->
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=flat" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbubakarSiddique&theme=react&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+</div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SyedAbubakarSiddique/SyedAbubakarSiddique/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
