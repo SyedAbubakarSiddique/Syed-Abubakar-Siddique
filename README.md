@@ -218,7 +218,6 @@ Current Status:
 | Recognition | Issuing Organization | Details / Focus Area |
 | :--- | :--- | :--- |
 | 🥇 **II PUC Academic Excellence (93%)** | Al-Ameen Pre-University College | Secured 93% Distinction & Top-Rank Recognition |
-| 🎖️ **Microsoft Excel Associate Certification** | Microsoft | Professional Data Analysis & Spreadsheet Engineering |
 | 🚢 **Indian Navy THINQ 2025** | Indian Navy | National Level General Knowledge & Technical Quiz |
 | 🏆 **MAHE BLRU Inter School Quiz 3.0** | Manipal Academy of Higher Education | Top Rank Winner in General Knowledge & Critical Thinking |
 | ✍️ **Literary Presentation Award** | Academic Literary Forum | Distinction in Technical & Literary Content Presentation |
@@ -230,7 +229,6 @@ Current Status:
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Excel_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/NPTEL-Computer_Science-FF9900?style=for-the-badge&logo=nptel&logoColor=white" />
@@ -257,42 +255,21 @@ Current Status:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="45%" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Public_Repos-Auto-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/SyedAbubakarSiddique?style=for-the-badge&logo=github&logoColor=white&color=7E22CE" />
+    <img src="https://img.shields.io/github/followers/SyedAbubakarSiddique?style=for-the-badge&logo=github&logoColor=white&color=6B21A8" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=SyedAbubakarSiddique&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="94%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" width="95%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+  <!-- Guaranteed 100% Uptime Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbubakarSiddique&theme=react&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-</div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
