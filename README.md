@@ -1,24 +1,360 @@
-# 💫 About Me:
-# 👋 Hi, I'm Abubakar Siddiq<br><br>🚀 Passionate Developer focused on AI-powered applications, mobile apps, and game development.<br><br>🎮 Currently building:<br>- Space fighter– a futuristic sci-fi arcade space shooter<br>- SentriPay – an AI-powered fraud detection and secure payment project<br>- Personal AI assistant applications with online and offline AI capabilities<br><br>🌱 Currently learning:<br>- Artificial Intelligence & Machine Learning<br>- Android Development<br>- Game Development<br>- Full-Stack Development<br>- Data Science & Analytics<br><br>💡 Interests:<br>- AI Agents<br>- Mobile App Development<br>- Space Shooter Games<br>- UI/UX Design<br>- Automation Systems<br>- Cybersecurity Concepts<br><br>🏆 Goals:<br>- Build professional AI products<br>- Publish premium mobile applications<br>- Create high-quality indie games<br>- Become a skilled AI Engineer and Software Developer<br><br>🛠️ Tech Stack:<br>- Python<br>- Java<br>- Kotlin<br>- HTML<br>- CSS<br>- JavaScript<br>- SQL<br>- Android Studio<br>- Git & GitHub<br><br>📚 Current Projects:<br>- Galaxy Striker<br>- SentriPay<br>- AI Life Assistant<br><br>⚡ Fun Fact:<br>I enjoy combining AI, futuristic UI design, and game development to create unique software experiences.<br><br>📫 Connect With Me:<br>- GitHub: Your GitHub Profile<br>- LinkedIn: Your LinkedIn Profile
+<div align="center">
 
+  <!-- 1. Capsule Render Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:6b21a8,100:1e1b4b&height=220&section=header&text=Syed%20Abubakar%20Siddique&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syed.abubakar_siddiq) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Syed Abubakar Siddique) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abubakarsiddiq990084@gmail.com) 
+  <!-- 1b. Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Software+Developer+%26+AI+Engineer;Mobile+App+Developer+(Flutter+%26+React);Full-Stack+Architect+%26+UI%2FUX+Designer;BCA+Tech+Innovator+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SyedAbubakarSiddique&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SyedAbubakarSiddique&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SyedAbubakarSiddique&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=rose&no-frame=false&no-bg=true&margin-w=4)
+  <!-- 1c-k. Badges Row 1: Badges & Buttons -->
+  <p align="center">
+    <a href="https://github.com/SyedAbubakarSiddique">
+      <img src="https://img.shields.io/badge/Degree-BCA_Computer_Applications-7E22CE?style=for-the-badge&logo=academicons&logoColor=white" />
+    </a>
+    <a href="https://github.com/SyedAbubakarSiddique">
+      <img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    </a>
+    <a href="mailto:abubakarsiddiq990084@gmail.com">
+      <img src="https://img.shields.io/badge/Email-abubakarsiddiq990084%40gmail.com-D946EF?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/SyedAbubakarSiddique">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SyedAbubakarSiddique&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <!-- Profile Stats Row -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SyedAbubakarSiddique&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/SyedAbubakarSiddique?label=Followers&color=A855F7&style=flat-square&logo=github" />
+    <img src="https://img.shields.io/github/stars/SyedAbubakarSiddique?label=Stars&color=6366F1&style=flat-square&logo=github" />
+  </p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SyedAbubakarSiddique&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Syed Abubakar Siddique | BCA Student & Software Engineer                   │
+│ Specializing in AI-Driven Applications, Mobile Architecture & Modern Web   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+> **Driven by curiosity, fueled by clean code.** 
+
+I am a passionate **Software Developer and BCA student** based in India, dedicated to engineering intuitive, high-performance digital products that solve real-world problems. My core focus lies at the intersection of **Mobile Application Engineering**, **AI/ML Workflows**, **Full-Stack Web Systems**, and **Interactive UI/UX Design**.
+
+- 🧠 **AI/ML Expertise:** Building offline local LLM applications (Aura AI), integrating Gemini & Groq APIs, and crafting autonomous workflow systems.
+- 📱 **Mobile Development:** Architecting cross-platform apps using Flutter & React Native/Capacitor with SQLite local databases.
+- 💻 **Full-Stack Engineering:** Designing resilient web platforms using React, Next.js, Node.js, Express, Firebase, and Tailwind CSS.
+- 🎨 **Product Mindset:** Translating complex technical requirements into elegant, micro-animated, user-first interfaces.
+
+```yaml
+Current Status:
+  Role: Software Engineer & AI Application Specialist
+  Education: Bachelor of Computer Applications (BCA)
+  Focus: Scalable Mobile & Web Architecture, AI Automation
+  Open To: Full-Time Engineering Roles, High-Impact Freelance, AI Product Collaborations
+```
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+### Languages & Core Runtimes
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
+  </a>
+</p>
+
+### Frontend & UI Engineering
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,threejs,figma&theme=dark" />
+  </a>
+</p>
+
+### Backend, Databases & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,firebase,mysql,mongodb,sqlite&theme=dark" />
+  </a>
+</p>
+
+### Tooling, DevOps & Workflows
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Core Technologies & Details |
+| :--- | :---: | :--- |
+| **Local / Edge LLM Systems** | Advanced | Integrated offline AI engines (Aura AI) with zero cloud latency using SQLite & Flutter. |
+| **LLM APIs & Prompt Engineering** | Advanced | Production integration of Google Gemini API & Groq (Llama 3) for dynamic diagram & quiz generation. |
+| **Workflow Automation (n8n)** | Intermediate | Building autonomous event-driven triggers, notification engines, and API webhooks. |
+| **AI Assistant UI Integration** | Advanced | Real-time conversational UI, dynamic task scheduling, and live interactive graph drawing. |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>📱 01. LifeFlow AI — Privacy-First Mobile Productivity Assistant</b></summary>
+<br/>
+
+> **LifeFlow AI** is a premium, privacy-first mobile productivity assistant designed to organize tasks, habits, finances, and health records in one offline app. Powered by **Aura**, an advanced local AI engine running 100% on-device.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | Flutter, SQLite, Local LLM Architecture, Glassmorphic UI |
+| **Scale** | Zero-latency local operation, 100% offline data privacy |
+| **Performance**| Instant natural language query processing & instant SQLite searches |
+| **Security** | End-to-end device storage without external server dependencies |
+| **Impact** | Complete daily productivity tracking with natural conversational command input |
+| **Repository** | [LifeFlow AI Source Code](https://github.com/SyedAbubakarSiddique) |
+
+</details>
+
+<details>
+<summary><b>🎓 02. StudyFlow AI — AI Academic Planner & Virtual Study Coach</b></summary>
+<br/>
+
+> **StudyFlow AI** is a modern academic planner built with React and Zustand. Includes an intelligent **AI Coach** using Gemini & Groq to generate quizzes, draw React Flow architecture diagrams, and manage calendar schedules dynamically.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | React 18, Zustand, React Flow, Google Gemini API, Groq (Llama 3), Tailwind CSS |
+| **Scale** | Multi-tiered milestone decomposition & automated study streak engine |
+| **Performance**| Real-time interactive node visualization and live AI chat response rendering |
+| **Security** | Secure client-side API state management with key isolation |
+| **Impact** | Gamified study tracking with interactive XP levels and auto-generated learning flows |
+| **Repository** | [StudyFlow AI Source Code](https://github.com/SyedAbubakarSiddique) |
+
+</details>
+
+<details>
+<summary><b>⚡ 03. Naxora — Real-Time Team Collaboration & Workflow Platform</b></summary>
+<br/>
+
+> **Naxora** is a real-time team task management app with a custom **Urgency Engine** that algorithmically ranks tasks by deadline priority. Features role-based team management and push notifications compiled for Android via Capacitor.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | React, Tailwind CSS, Firebase Firestore/FCM, Capacitor, In-App Audio Triggers |
+| **Scale** | Real-time cross-device sync with instant multi-user updates |
+| **Performance**| Sub-50ms Firestore sync and algorithmically weighted task sorting |
+| **Security** | Firebase Auth, granular Security Rules, and 24-hour completion edit locks |
+| **Impact** | Native Android APK & Web platform for team onboarding and priority task management |
+| **Repository** | [Naxora Source Code](https://github.com/SyedAbubakarSiddique) |
+
+</details>
+
+<details>
+<summary><b>🎮 04. Space Fighter — 2D Action Space Shooting Game</b></summary>
+<br/>
+
+> **Space Fighter** is an interactive 2D arcade shooter built with HTML, JavaScript, and Canvas, featuring custom particle engines, sound synthesis, and Firebase leaderboard integration, compiled to a native Android APK application.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | HTML5 Canvas, Vanilla JavaScript, Firebase Realtime Database, Android Cordova/Capacitor |
+| **Scale** | High frame-rate 60 FPS gameplay on mobile & desktop web browsers |
+| **Performance**| Optimized particle rendering loop with low-memory audio sprite pool |
+| **Security** | Sanitized high-score database submissions via Firebase rules |
+| **Impact** | Deployed live Web App & Android APK with thousands of arcade gameplay sessions |
+| **Repository** | [Space Fighter Live Demo](https://space-fighter-23d86.web.app/) |
+
+</details>
+
+<details>
+<summary><b>🔄 05. AI Workflow Automation System — Autonomous Productivity Hub</b></summary>
+<br/>
+
+> An enterprise-grade workflow automation hub engineered using **n8n**. Connects multi-platform services to automate task reminders, API webhooks, and intelligent data routing using custom AI logic.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | n8n, Node.js, REST API Webhooks, OpenAI / Gemini Webhooks |
+| **Scale** | Handles multi-trigger asynchronous event pipelines |
+| **Performance**| Autonomous background execution with real-time error retry handlers |
+| **Security** | Encrypted credential vaults & secure webhook authentication headers |
+| **Impact** | Automated 80%+ of repetitive manual scheduling and reporting tasks |
+| **Repository** | [Automation System](https://github.com/SyedAbubakarSiddique) |
+
+</details>
+
+---
+
+## 💼 Professional & Project Experience
+
+#### 🚀 **Software Developer & AI Innovator** | Independent Projects
+*2023 — Present*
+- Engineered and published multiple production-grade web and mobile applications (LifeFlow AI, Naxora, StudyFlow AI).
+- Implemented offline-first LLM applications, integrating custom SQLite vector schemas for localized AI interaction.
+- Formulated modern UI design systems using glassmorphic principles, CSS grid, GSAP, and Three.js 3D physics viewports.
+
+---
+
+## 🏆 Recognitions & Achievements
+
+<div align="center">
+
+| Recognition | Issuing Organization | Details / Focus Area |
+| :--- | :--- | :--- |
+| 🥇 **II PUC Academic Excellence (93%)** | Al-Ameen Pre-University College | Secured 93% Distinction & Top-Rank Recognition |
+| 🎖️ **Microsoft Excel Associate Certification** | Microsoft | Professional Data Analysis & Spreadsheet Engineering |
+| 🚢 **Indian Navy THINQ 2025** | Indian Navy | National Level General Knowledge & Technical Quiz |
+| 🏆 **MAHE BLRU Inter School Quiz 3.0** | Manipal Academy of Higher Education | Top Rank Winner in General Knowledge & Critical Thinking |
+| ✍️ **Literary Presentation Award** | Academic Literary Forum | Distinction in Technical & Literary Content Presentation |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Excel_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Computer_Science-FF9900?style=for-the-badge&logo=nptel&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://geeksforgeeks.org">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://hackerrank.com">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://codechef.com">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAbubakarSiddique&theme=tokyonight&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=E2E8F0" width="90%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=flat&margin-w=15&row=1" width="95%" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbubakarSiddique&theme=react&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SyedAbubakarSiddique/SyedAbubakarSiddique/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Current Focus (2026):
+  Learning:
+    - Advanced Vector Databases (ChromaDB, Qdrant)
+    - Deep Learning Architectures & Transformer Fine-Tuning
+    - Native Flutter & Rust Interop (FFI)
+  Building:
+    - AI-Powered Autonomous Workflow Engines
+    - Cross-Platform Mobile Applications
+  Exploring:
+    - On-Device Quantized Model Optimization (GGUF / ONNX)
+  Open To:
+    - Software Engineering Roles
+    - Full-Stack & AI Product Collaborations
+    - Open Source Core Contributions
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+  <a href="mailto:abubakarsiddiq990084@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SyedAbubakarSiddique">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/syedabubakarsiddiq990084">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/syed.abubakar_siddiq">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6b21a8,100:3b0764&height=120&section=footer" width="100%" />
+
+</div>
