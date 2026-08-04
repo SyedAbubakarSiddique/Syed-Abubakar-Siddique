@@ -259,14 +259,11 @@ Current Status:
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAbubakarSiddique&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbubakarSiddique&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SyedAbubakarSiddique&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/SyedAbubakarSiddique?style=for-the-badge&logo=github&color=8B5CF6&label=GitHub%20Followers" />
+    <img src="https://img.shields.io/github/stars/SyedAbubakarSiddique?style=for-the-badge&logo=github&color=A855F7&label=Total%20Stars" />
+    <img src="https://komarev.com/ghpvc/?username=SyedAbubakarSiddique&label=Profile%20Views&color=6366F1&style=for-the-badge" />
+  </p>
 
 </div>
 
@@ -275,7 +272,13 @@ Current Status:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedAbubakarSiddique&theme=flat" alt="GitHub Trophies" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Academic%20Excellence-Top%201%25%20(93%25)-7E22CE?style=for-the-badge&logo=trophy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Inter--School%20Quiz-1st%20Rank%20Winner-4C1D95?style=for-the-badge&logo=award&logoColor=white" />
+    <img src="https://img.shields.io/badge/Indian%20Navy%20THINQ-National%20Finalist-6366F1?style=for-the-badge&logo=star&logoColor=white" />
+  </p>
+
 </div>
 
 ---
@@ -291,7 +294,7 @@ Current Status:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SyedAbubakarSiddique/SyedAbubakarSiddique/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
